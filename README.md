@@ -21,7 +21,8 @@ A simple Flutter app for managing your to-do list. This app allows users to add,
 - **Responsive Layout**: The app is responsive and works seamlessly on both small and large screens.
 
 ## Screenshot:
-<img width="131" alt="todo2" src="https://github.com/user-attachments/assets/7161ab19-abf2-48d3-8626-5116077b6966">  <img width="158" alt="Todo1" src="https://github.com/user-attachments/assets/3067ec4a-1d47-4741-b9b0-4f90e558bebb">
+<img width="197" alt="todo2" src="https://github.com/user-attachments/assets/e182416b-0df5-43d5-962b-9427ee462b7c">
+  <img width="158" alt="Todo1" src="https://github.com/user-attachments/assets/3067ec4a-1d47-4741-b9b0-4f90e558bebb">
 
 
 
